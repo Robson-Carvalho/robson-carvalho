@@ -20,8 +20,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
- </div>
+ <img align="right" alt="Rafa-yoda" src="https://miro.medium.com/max/1600/0*ZFVRrCKEokQ7_81X.gif">
+</div>
 #### Alcance-me !
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-carvalho-708a4a207/)](https://www.linkedin.com/in/robson-carvalho-708a4a207/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_robsonn_souza/)](https://www.instagram.com/_robsonn_souza/) 
