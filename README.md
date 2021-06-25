@@ -1,16 +1,15 @@
-### Hi there 👋
+# Ei 👋
 
-<!--
-**Robson-Carvalho/robson-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Robson Carvalho 
 
-Here are some ideas to get you started:
+Sou estudante do Instituto Federal Baiano e estudo programação desde 2019. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
+
+🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+-   📍 De BA 
+-   💻Futuro Desenvolvedor FullStack
+#### Alcance-me !
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-carvalho-708a4a207/)](https://www.linkedin.com/in/robson-carvalho-708a4a207/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_robsonn_souza/)](https://www.instagram.com/_robsonn_souza/) 
