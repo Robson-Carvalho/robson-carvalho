@@ -18,7 +18,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-#### Alcance-me !
+
+## Alcance-me !
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-carvalho-708a4a207/)](https://www.linkedin.com/in/robson-carvalho-708a4a207/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_robsonn_souza/)](https://www.instagram.com/_robsonn_souza/) 
 
@@ -27,5 +28,3 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
