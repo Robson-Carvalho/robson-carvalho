@@ -1,6 +1,6 @@
 # Ei 👋
 
-Meu nome é Robson Carvalho 🇧🇷
+Meu me chamo Robson Carvalho 🇧🇷
 
 Sou estudante do Instituto Federal Baiano e estudo programação desde 2019.💻
 
