@@ -3,7 +3,7 @@
 
 # Hello 👋
 
-Meu me chamo Robson Carvalho 🇧🇷
+Eu me chamo Robson Carvalho 🇧🇷
 
 Sou estudante do Instituto Federal Baiano e estudo programação desde 2019.💻
 
