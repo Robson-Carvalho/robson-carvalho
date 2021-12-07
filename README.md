@@ -6,12 +6,6 @@
 - 👨🏻‍💻 &nbsp; Olá, eu me chamo Robson Carvalho, atualmente, tenho 17 anos, mas iniciei no mundo da programação aos 15;🐱‍💻Sou apaixonado por essa área e astronomia🌌, sempre aberto para novas oportunidades. Estou sempre estudando as novas tecnologias, sou persistente e nunca desisto de solucionar problemas🧠..
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
-
-
-
-
-
 
 <div style="display: inline_block"><br>
 <div style="display: flex">
@@ -24,18 +18,6 @@
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 </div>
- 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
- 
-<div style="display: inline_block"><br>
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
-
-
-
-
 
  <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
