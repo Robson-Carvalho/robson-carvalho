@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Robson, um desenvolvedor front-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Hi, my name is Robson Carvalho and I'm a Full-Satck developer!</h1>
 <img height="auto"  src="https://camo.githubusercontent.com/25c62e35eb1d859017c0dc6a85f91e863002c00266fb101e1ae48f2092ab1d48/68747470733a2f2f692e696d6775722e636f6d2f7034766e47414e2e676966"/>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
