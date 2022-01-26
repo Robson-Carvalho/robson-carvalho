@@ -3,7 +3,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Olá, eu me chamo Robson Carvalho, atualmente, tenho 17 anos, mas iniciei no mundo da programação aos 15;🐱‍💻Sou apaixonado por essa área e astronomia🌌, sempre aberto para novas oportunidades. Estou sempre estudando as novas tecnologias, sou persistente e nunca desisto de solucionar problemas🧠..
+Olá! Eu me chamo Robson Carvalho, tenho 17 anos e estou estudando para mim tornar um bom programador Fullstack. Sou uma pessoa curiosa e sempre gostei de assuntos como tecnologia, astronomia e física. Na infância meus olhos brilhavam quando assistia filmes de hackers escrevendo códigos e fazendo coisas incríveis em alguns instantes, talvez isso tenha despertado o interesse em mim pela programação. No entanto, só comecei a programar aos 15 anos, quando entrei no Instituto Federal Baiano, onde tive meu primeiro contanto com a programação, no primeiro 1° ano foram abordados algoritmo, lógica de programação e a linguagem C, no 2°ano Redes e Banco de dados, onde aprendemos a utilizar o banco de dados relacional MySql, atualmente no 3° está sendo abordado na disciplina de desenvolvimento web HTML, CSS, JavaScript, PHP e Java. 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
