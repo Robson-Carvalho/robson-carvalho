@@ -29,7 +29,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img align="center" alt="" height="45" width="45" src="./assets/63ebb01d6097155058b29f04_html icon.svg">
   <img align="center" alt=""  alt="" height="45" width="45" src="./assets/63e28566b964feabada98678_CSS.svg">
   <img align="center" alt=""  alt="" height="45" width="45" src="./assets/63e285646102e52b02e51fab_JAVASCRIPT.svg">
