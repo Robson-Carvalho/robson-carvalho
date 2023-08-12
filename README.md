@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robson-Carvalho&label=Profile%20views&color=8236fd&style=flat" alt="evelynmesquita" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Java**
 
 - 📃 All of my articles are avaiable at https://medium.com/@robsoncarvalho.tech
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img align="center" alt="" height="45" width="45" src="./assets/63ebb01d6097155058b29f04_html icon.svg">
   <img align="center" alt=""  alt="" height="45" width="45" src="./assets/63e28566b964feabada98678_CSS.svg">
   <img align="center" alt=""  alt="" height="45" width="45" src="./assets/63e285646102e52b02e51fab_JAVASCRIPT.svg">
@@ -32,7 +32,7 @@
   <img align="center" alt="" alt="" height="45" width="45" src="./assets/63e285604d2c7f733846e6c5_VS CODE.svg">
 <div>
 
-<div align="left">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=robson-carvalho&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=8236fd&text_color=c9d1d9&bg_color=0d1117" alt="Robson Carvalho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-carvalho&layout=compact&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117" />
 </div>
