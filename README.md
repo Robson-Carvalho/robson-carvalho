@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robson-Carvalho&label=Profile%20views&color=8236fd&style=flat" alt="evelynmesquita" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Go**
 
 - 📃 All of my articles are avaiable at https://medium.com/@robsoncarvalho.tech
 
