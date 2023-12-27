@@ -11,13 +11,13 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Robson-Carvalho&label=Profile%20views&color=8236fd&style=flat" alt="evelynmesquita" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**.
 
-- 📃 All of my articles are avaiable at https://medium.com/@robsoncarvalho.tech
+- 📃 All of my articles are avaiable at https://medium.com/@robsoncarvalho.tech.
 
-- 🎒 **Computer Engineering** student at the State University of Feira de Santana
+- 🎒 **Computer Engineering** student at the State University of Feira de Santana.
 
-- 📕 Languages **Portuguese** and **English**
+- 📕 Languages **Portuguese** and **English**.
 
 <h3>Languanges and Tools</h3>
 
