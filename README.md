@@ -3,7 +3,7 @@
 <p>Software engineer and technology enthusiast.</p>
 
 <div align="left">
-<img width="" height="200px" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<img width="" height="200px" src="./assets/NUX_Octodex.gif">
 <img width="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-carvalho&layout=compact&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117" />
 <div>
 
