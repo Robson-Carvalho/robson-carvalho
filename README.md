@@ -1,6 +1,6 @@
 <h2>Hi, i'm Robson Carvalho 👋</h2>
 
-<p>Software engineer and technology enthusiast.</p>
+<p>I`m a Software Engineer and technology enthusiast.</p>
 
 <div align="left">
 <img width="" height="200px" src="./assets/NUX_Octodex.gif">
@@ -11,7 +11,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Robson-Carvalho&label=Profile%20views&color=8236fd&style=flat" alt="evelynmesquita" /> </p>
 
-- 🌱 I’m currently learning **C#**.
+- 🌱 I’m currently learning **Go lang**.
 
 - 📃 All of my articles are avaiable at https://medium.com/@robsoncarvalho.tech.
 
