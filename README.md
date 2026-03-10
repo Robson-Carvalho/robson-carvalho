@@ -3,8 +3,9 @@
 ### 🚀 Sobre Mim
 Estudante de **Engenharia de Computação** na UEFS, foco em **Machine Learning** e desenvolver soluções escaláveis. Tenho experiência com sistemas distribuídos, concorrência e, atualmente, estou mergulhado no ecossistema de **Agentes de IA**.
 
+- 💻 Membro da equipe técnica da Ecomp JR, desenvolvendo, principalmente, soluções Back-End.
 - 🔭 Atualmente desenvolvendo soluções escaláveis e integrando com **Agentes de IA**.
-- 🎓 Monitor de **Estrutura de Dados** na UEFS e Bolsista Instrutor do treinamento para a **OBI** (Olimpíada Brasileira de Informática).
+- 🎓 Ex Monitor de **Estrutura de Dados** na UEFS e Atual Bolsista Instrutor do treinamento para a **OBI** (Olimpíada Brasileira de Informática).
 - ✍️ Escrevo sobre tecnologia no [Medium](https://medium.com/@robsoncarvalho.tech).
 - ⚡ PBL Mindset: Metodologia baseada em problemas (PBL), o que me capacitou a solucionar desafios sob demanda, aprender novas tecnologias com agilidade e entregar resultados sob pressão.
 
